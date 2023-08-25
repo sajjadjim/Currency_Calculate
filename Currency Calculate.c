@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    
     int n;
     int a,b,c,d,e,f,g;
     printf(" \"Enter BDT any amount currency for calculation\"\n");
