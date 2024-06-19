@@ -3,7 +3,7 @@ def currency_converter(amount, exchange_rate):
     converted_amount = amount * exchange_rate
     return converted_amount
 
-def main():
+def main():   
     print("Welcome to Currency Converter")
     print("Available currencies:")
     print("1. USD - United States Dollar")
