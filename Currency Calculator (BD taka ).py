@@ -1,4 +1,4 @@
-### Curency Calculator
+### Curency Calculator 
 print("Enter BDT any amount currency for calculation")
 n = int(input())
 print("Amount of Money = {} Taka".format(n))
